@@ -1,0 +1,50 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.Work_app" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/purple_500</item>
+        <item name="colorPrimaryVariant">@color/purple_700</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/teal_200</item>
+        <item name="colorSecondaryVariant">@color/teal_700</item>
+        <item name="colorOnSecondary">@color/black</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor" tools:targetApi="l">?attr/colorPrimaryVariant</item>
+        <!-- Customize your theme here. -->
+    </style>
+
+    <style name="Toolbar">
+        <item name="android:background">@color/tem_sin</item>
+        <item name="android:textColor">#fefefe</item>
+    </style>
+
+    <style name="Main">
+        <item name="android:layout_marginTop">10sp</item>
+        <item name="android:layout_gravity">center</item>
+        <item name="android:background">@drawable/conner</item>
+        <item name="android:padding">5sp</item>
+    </style>
+
+    <style name="MainBot">
+        <item name="android:layout_marginTop">15sp</item>
+        <item name="android:layout_gravity">center</item>
+        <item name="android:background">@drawable/conner_2</item>
+    </style>
+
+    <style name="TextMain">
+
+        <item name="android:textColor">@color/wiltiu</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:layout_marginTop">25sp</item>
+        <item name="android:layout_marginLeft">10sp</item>
+        <item name="android:textSize">30sp</item>
+    </style>
+
+    <style name="TextMain1">
+
+        <item name="android:textColor">@color/wiltiu</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textSize">30sp</item>
+    </style>
+</resources>

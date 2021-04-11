@@ -1,0 +1,48 @@
+com/example/work_app/Vacansion.java
+ com.example.work_app.Vacansion
+com/example/work_app/MainActivity.java
+ com.example.work_app.MainActivity
+ com.example.work_app.MainActivity$1
+ com.example.work_app.MainActivity$2
+com/example/work_app/BuildConfig.java
+ com.example.work_app.BuildConfig
+com/example/work_app/ResumeAdapter.java
+ com.example.work_app.ResumeAdapter
+com/example/work_app/ResumeView.java
+ com.example.work_app.ResumeView
+com/example/work_app/MainRabota.java
+ com.example.work_app.MainRabota
+com/example/work_app/MainWindow.java
+ com.example.work_app.MainWindow
+com/example/work_app/ScreenVacansion.java
+ com.example.work_app.ScreenVacansion
+ com.example.work_app.ScreenVacansion$1
+com/example/work_app/VacansionView.java
+ com.example.work_app.VacansionView
+com/example/work_app/VacansionAdapter.java
+ com.example.work_app.VacansionAdapter
+ com.example.work_app.VacansionAdapter$1
+com/example/work_app/ScreenMessage.java
+ com.example.work_app.ScreenMessage
+com/example/work_app/MainStudent.java
+ com.example.work_app.MainStudent
+ com.example.work_app.MainStudent$1
+ com.example.work_app.MainStudent$2
+com/example/work_app/MainEmployer.java
+ com.example.work_app.MainEmployer
+ com.example.work_app.MainEmployer$1
+ com.example.work_app.MainEmployer$2
+com/example/work_app/WindowChoice.java
+ com.example.work_app.WindowChoice
+com/example/work_app/MainStydMain.java
+ com.example.work_app.MainStydMain
+ com.example.work_app.MainStydMain$1
+com/example/work_app/ScreenFavorite.java
+ com.example.work_app.ScreenFavorite
+com/example/work_app/ScreenProfile.java
+ com.example.work_app.ScreenProfile
+ com.example.work_app.ScreenProfile$1
+com/example/work_app/Resume.java
+ com.example.work_app.Resume
+ com.example.work_app.Resume$1
+ com.example.work_app.Resume$2

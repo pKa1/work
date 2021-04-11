@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ScreenProfile">
+
+    <LinearLayout
+        android:id="@+id/linearLayout1"
+        android:layout_width="match_parent"
+        android:padding="10dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="50dp"
+        android:elevation="25dp"
+        android:orientation="vertical">
+
+        <ImageView
+            android:id="@+id/imageView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:src="@drawable/ic_account_circle_black_24dp" />
+
+        <TextView
+            android:id="@+id/text1"
+            android:layout_marginTop="15dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="18sp"
+            android:text="Иван Иванов Иваныч"
+            android:layout_gravity="center_horizontal"
+            />
+
+        <TextView
+            android:id="@+id/text2"
+            android:layout_marginTop="15dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="18sp"
+            android:text="Дата рождения: 26.05.2002"
+            android:layout_gravity="center_horizontal"
+            />
+
+        <TextView
+            android:id="@+id/text3"
+            android:layout_marginTop="15dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="18sp"
+            android:text="Студент 3 курса"
+            android:layout_gravity="center_horizontal"
+            />
+
+        <TextView
+            android:id="@+id/text4"
+            android:layout_marginTop="15dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="16sp"
+            android:text="Колледж цифровых педагогических технологий: Советует этого студента "
+            android:layout_gravity="center_horizontal"
+            />
+
+        <TextView
+            android:id="@+id/text5"
+            android:layout_marginTop="15dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="16sp"
+            android:text="Участовал в: Хакатоне , золотой саквояж , формула стимула"
+            android:layout_gravity="center_horizontal"
+            />
+
+
+
+    </LinearLayout>
+
+    <Button
+        android:id="@+id/createResume"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="650sp"
+        android:layout_centerInParent="true"
+        android:layout_alignParentBottom="true"
+
+
+        android:background="@drawable/style_button"
+        android:padding="15dp"
+        android:text="Добавить резюме"
+        android:textAllCaps="false"
+        android:textSize="18dp" />
+
+</RelativeLayout>

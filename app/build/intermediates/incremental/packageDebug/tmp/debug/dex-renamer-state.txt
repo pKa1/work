@@ -1,0 +1,7 @@
+#Sun Apr 11 15:51:07 YEKT 2021
+base.0=/Users/i4ft/AndroidStudioProjects/work_app/app/build/intermediates/dex/debug/mergeExtDexDebug/classes.dex
+path.1=classes.dex
+renamed.1=classes2.dex
+path.0=classes.dex
+renamed.0=classes.dex
+base.1=/Users/i4ft/AndroidStudioProjects/work_app/app/build/intermediates/dex/debug/mergeProjectDexDebug/classes.dex
